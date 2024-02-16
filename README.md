@@ -1,6 +1,6 @@
 # Task Traker
 
-[:point_right: Click here to see on browser](https://random-user-with-react-v1.netlify.app/)
+[:point_right: Click here to see on browser](https://task-traker-v1.netlify.app/)
 
 ![appointment]()
 
