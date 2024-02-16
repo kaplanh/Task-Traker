@@ -2,7 +2,8 @@
 
 [:point_right: Click here to see on browser](https://task-traker-v1.netlify.app/)
 
-![appointment]()
+![tasktraker](https://github.com/kaplanh/Task-Traker/assets/101884444/bdda2fdc-43e9-447f-aac9-9fb231901ad3)
+
 
 ---
 
@@ -86,7 +87,7 @@ OR
 ## Project Skeleton
 
 ```
- Appointment App (folder)
+ Task Traker (folder)
 |
 |----public (folder)
 │     └── index.html
